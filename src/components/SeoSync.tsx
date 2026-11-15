@@ -17,7 +17,9 @@ export function SeoSync() {
 
   useEffect(() => {
     const path =
-      pathname === "/" ? "/" : pathname.replace(/\/$/, "");
+      pathname === "/"
+        ? "/"
+        : pathname.replace(/\/$/, "");
 
     const meta =
       pageMetaByPath[path] ?? pageMetaByPath["/"];
@@ -29,7 +31,10 @@ export function SeoSync() {
         'meta[name="description"]'
       );
 
-    description?.setAttribute("content", meta.description);
+    description?.setAttribute(
+      "content",
+      meta.description
+    );
   }, [pathname]);
 
   return null;
