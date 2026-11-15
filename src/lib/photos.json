@@ -1,0 +1,58 @@
+{
+  "hero":{
+    "src":"https://images.pexels.com/photos/8535232/pexels-photo-8535232.jpeg?auto=compress&cs=tinysrgb&w=1500",
+    "alt":"Children participating in learning activities with a teacher in an illustrative preschool classroom photograph",
+    "position":"center center",
+    "credit":"Ksenia Chernaya / Pexels",
+    "source":"https://www.pexels.com/photo/kids-playing-with-educational-toys-in-school-8535232/"
+  },
+  "intro":{
+    "src":"https://images.pexels.com/photos/8535234/pexels-photo-8535234.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "alt":"Teacher leading educational activities for children in an illustrative preschool photograph",
+    "position":"center center",
+    "credit":"Ksenia Chernaya / Pexels",
+    "source":"https://www.pexels.com/photo/kids-holding-colorful-balls-while-listening-to-their-teacher-8535234/"
+  },
+  "infants":{
+    "src":"https://images.pexels.com/photos/8363750/pexels-photo-8363750.jpeg?auto=compress&cs=tinysrgb&w=1000",
+    "alt":"Young child playing with toys on the floor in an illustrative childcare photograph",
+    "position":"center 42%",
+    "credit":"RDNE Stock project / Pexels",
+    "source":"https://www.pexels.com/photo/a-kid-playing-inside-the-classroom-8363750/"
+  },
+  "toddlers":{
+    "src":"https://images.pexels.com/photos/8612970/pexels-photo-8612970.jpeg?auto=compress&cs=tinysrgb&w=1000",
+    "alt":"Two children playing with wooden blocks in an illustrative classroom photograph",
+    "position":"center center",
+    "credit":"Yan Krukau / Pexels",
+    "source":"https://www.pexels.com/photo/two-boys-playing-with-wooden-blocks-in-a-room-8612970/"
+  },
+  "preschool":{
+    "src":"https://images.pexels.com/photos/8535193/pexels-photo-8535193.jpeg?auto=compress&cs=tinysrgb&w=1000",
+    "alt":"Children exploring colorful building blocks in an illustrative preschool photograph",
+    "position":"center center",
+    "credit":"Ksenia Chernaya / Pexels",
+    "source":"https://www.pexels.com/photo/children-playing-with-colorful-wooden-blocks-8535193/"
+  },
+  "schoolAge":{
+    "src":"https://images.pexels.com/photos/8923527/pexels-photo-8923527.jpeg?auto=compress&cs=tinysrgb&w=1000",
+    "alt":"Young student exploring educational materials in an illustrative classroom photograph",
+    "position":"center 48%",
+    "credit":"Mikhail Nilov / Pexels",
+    "source":"https://www.pexels.com/photo/a-girl-in-the-classroom-8923527/"
+  },
+  "about":{
+    "src":"https://images.pexels.com/photos/8363047/pexels-photo-8363047.jpeg?auto=compress&cs=tinysrgb&w=1300",
+    "alt":"Children playing with educational toys inside a classroom; illustrative photograph, not the Moore facility",
+    "position":"center center",
+    "credit":"RDNE Stock project / Pexels",
+    "source":"https://www.pexels.com/photo/children-playing-with-their-toys-inside-the-school-8363047/"
+  },
+  "materials":{
+    "src":"https://images.pexels.com/photos/6692953/pexels-photo-6692953.jpeg?auto=compress&cs=tinysrgb&w=1100",
+    "alt":"Colorful wooden toys used for learning and play in an illustrative photograph",
+    "position":"center center",
+    "credit":"Tara Winstead / Pexels",
+    "source":"https://www.pexels.com/photo/a-kid-playing-the-colorful-wooden-toys-in-the-box-6692953/"
+  }
+}
